@@ -1,0 +1,111 @@
+<table class="table table-striped table-hover" style="width:350px; margin-left:auto; margin-right:auto" >
+ <tbody><tr class="table-center">
+      <th class="col-md-1">Module</th>
+      <th class="col-md-1">Utilisation</th>
+ </tr>
+   <tr class="table-center">
+      <td>A</td>
+      <td><?= $PageOptions['ModuleNames']['A'] ?></td>
+   </tr>
+   <tr class="table-center">
+      <td>B</td>
+      <td><?= $PageOptions['ModuleNames']['B'] ?></td>
+   </tr>
+ <tr class="table-center">
+      <td>C</td>
+      <td><?= $PageOptions['ModuleNames']['C'] ?></td>
+   </tr>
+ <tr class="table-center">
+      <td>D</td>
+      <td><?= $PageOptions['ModuleNames']['D'] ?></td>
+   </tr>
+ <tr class="table-center">
+      <td>E</td>
+      <td><?= $PageOptions['ModuleNames']['E'] ?></td>
+   </tr>
+ <tr class="table-center">
+      <td>F</td>
+      <td><?= $PageOptions['ModuleNames']['F'] ?></td>
+   </tr>
+ <tr class="table-center">
+      <td>G</td>
+      <td><?= $PageOptions['ModuleNames']['G'] ?></td>
+   </tr>
+ <tr class="table-center">
+      <td>H</td>
+      <td><?= $PageOptions['ModuleNames']['H'] ?></td>
+   </tr>
+  <tr class="table-center">
+      <td>I</td>
+      <td><?= $PageOptions['ModuleNames']['I'] ?></td>
+   </tr>
+ <tr class="table-center">
+      <td>J</td>
+      <td><?= $PageOptions['ModuleNames']['J'] ?></td>
+   </tr>
+ <tr class="table-center">
+      <td>K</td>
+      <td><?= $PageOptions['ModuleNames']['K'] ?></td>
+   </tr>
+ <tr class="table-center">
+      <td>L</td>
+      <td><?= $PageOptions['ModuleNames']['L'] ?></td>
+   </tr>
+ <tr class="table-center">
+      <td>M</td>
+      <td><?= $PageOptions['ModuleNames']['M'] ?></td>
+   </tr>
+ <tr class="table-center">
+      <td>N</td>
+      <td><?= $PageOptions['ModuleNames']['N'] ?></td>
+   </tr>
+ <tr class="table-center">
+      <td>O</td>
+      <td><?= $PageOptions['ModuleNames']['O'] ?></td>
+   </tr>
+ <tr class="table-center">
+      <td>P</td>
+      <td><?= $PageOptions['ModuleNames']['P'] ?></td>
+   </tr>
+ <tr class="table-center">
+      <td>Q</td>
+      <td><?= $PageOptions['ModuleNames']['Q'] ?></td>
+   </tr>
+ <tr class="table-center">
+      <td>R</td>
+      <td><?= $PageOptions['ModuleNames']['R'] ?></td>
+   </tr>
+<tr class="table-center">
+      <td>S</td>
+      <td><?= $PageOptions['ModuleNames']['S'] ?></td>
+   </tr>
+<tr class="table-center">
+      <td>T</td>
+      <td><?= $PageOptions['ModuleNames']['T'] ?></td>
+   </tr>
+ <tr class="table-center">
+      <td>U</td>
+      <td><?= $PageOptions['ModuleNames']['U'] ?></td>
+   </tr>
+ <tr class="table-center">
+      <td>V</td>
+      <td><?= $PageOptions['ModuleNames']['V'] ?></td>
+   </tr>
+ <tr class="table-center">
+      <td>W</td>
+      <td><?= $PageOptions['ModuleNames']['W'] ?></td>
+   </tr>
+ <tr class="table-center">
+      <td>X</td>
+      <td><?= $PageOptions['ModuleNames']['X'] ?></td>
+   </tr>
+ <tr class="table-center">
+      <td>Y</td>
+      <td><?= $PageOptions['ModuleNames']['Y'] ?></td>
+   </tr>
+ <tr class="table-center">
+      <td>Z</td>
+      <td><?= $PageOptions['ModuleNames']['Z'] ?></td>
+   </tr>
+   
+</tbody></table>

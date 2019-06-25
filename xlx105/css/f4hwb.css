@@ -1,0 +1,10 @@
+.news {
+    background-color: red;
+    width: 70%;
+    visibility: hidden;
+    margin-left: 200px;
+    color: yellow;
+    font-family: sans-serif;
+    font-weight: bold;
+    padding: 5px;
+    }
